@@ -7,7 +7,7 @@ local Library = Venyx.new("Shut up X")
 Library:setTheme("Glow", Color3.fromRGB(255, 0, 0))
 Library:setTheme("TextColor", Color3.fromRGB(255, 0, 0))
 
-local Skid = ""
+local Script = ""
 
 local PlayerTab = Library:addPage("Player")
 local Player = PlayerTab:addSection("Player Tab")
